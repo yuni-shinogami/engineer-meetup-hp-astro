@@ -43,18 +43,11 @@ _VRChat会場の様子_
 
 #### イベントの様子
 
-<iframe style="width: 657px; height: 369px;" src="https://www.youtube.com/embed/prbLM8lg0Rg?si=pO3EDbAleS3Es5GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="width: 657px; height: 369px;" src="https://www.youtube.com/embed/yOfDF53-wmo?si=7mGcpPDOywu1gH9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-_過去の開催動画はこちら: エンジニア集会 LT会#4 〇〇のはじめかた_
+\_過去の開催動画はこちら: エンジニア集会LT会#14 ｢ハードウェアタグをつけてる人のためのLT会｣
 
 ![LT会の集合写真](../../../assets/engineer_lt.png)
 _LT会の集合写真_
 
-### もくもく会
-
-開催日時：毎週日曜日10:00~11:00
-開催場所：エンジニア集会Discordサーバー
-
-毎週日曜日にエンジニア集会のDiscordサーバーでもくもく会を開催しています。
-
-![もくもく会の様子](../../../assets/engineer_mokumoku.png)
+その他、様々なイベントを企画・運営しています
