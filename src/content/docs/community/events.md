@@ -10,6 +10,7 @@ description: 開催しているイベント
 開催日時：毎週金曜日22:00~  
 開催場所：VRChat  
 スケジュール：
+
 - 22:00 開場
 - 22:00 ~ 23:00 自由に雑談
 - 23:00 集合写真を撮影
@@ -19,14 +20,16 @@ description: 開催しているイベント
 エンジニア集会の主なイベントは、毎週金曜日に開催している「エンジニア集会」です。  
 集合写真を撮影した後、進捗共有会を実施しています。進捗共有会が終わった後は、自由な交流・雑談タイムが深夜まで続きます。
 
-
 #### イベントの様子
 
-![VRChat会場の集合写真](../../../assets/engineer_drinking_meetup_in_vrchat.png)
-*VRChat会場の集合写真*
+![VRChat会場の集合写真](../../../assets/group_photo.png)
+_VRChat会場の集合写真_
+
+![VRChat会場の様子](../../../assets/group_talking.png)
+_VRChat会場の様子_
 
 ![VRChat会場の様子](../../../assets/engineer_drinking_meetup_in_vrchat_3.png)
-*VRChat会場の様子*
+_VRChat会場の様子_
 
 ### エンジニア集会LT会
 
@@ -39,10 +42,10 @@ description: 開催しているイベント
 
 <iframe style="width: 657px; height: 369px;" src="https://www.youtube.com/embed/prbLM8lg0Rg?si=pO3EDbAleS3Es5GA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-*過去の開催動画はこちら: エンジニア集会 LT会#4 〇〇のはじめかた*
+_過去の開催動画はこちら: エンジニア集会 LT会#4 〇〇のはじめかた_
 
 ![LT会の集合写真](../../../assets/engineer_lt.png)
-*LT会の集合写真*
+_LT会の集合写真_
 
 ### もくもく会
 
