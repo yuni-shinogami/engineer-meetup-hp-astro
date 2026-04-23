@@ -5,7 +5,7 @@ description: エンジニア集会とは？
 
 エンジニア集会とは、様々な技術者がVRSNSを中心に技術者交流を行うことができるコミュニティです
 
-![VRChat会場の集合写真](../../../assets/engineer_drinking_meetup_in_vrchat.png)
+![VRChat会場の集合写真](../../../assets/group_photo.png)
 
 ## どんなジャンルのエンジニアが参加できますか？
 
@@ -25,7 +25,7 @@ description: エンジニア集会とは？
   - [VRChatのはじめかた](https://vr-lifemagazine.com/vrcguide202305/)
   - [VRChatダウンロードページ](https://store.steampowered.com/app/438100/VRChat/)
     - ※Desktop/VRモードで遊ぶには、Steamからダウンロードする必要があります。その際にはSteamアカウントも必要になります。
-- cluster 
+- cluster
   - [clusterのはじめかた](https://xrcloud.jp/blog/articles/business/10206/)
   - [clusterダウンロードページ](https://cluster.mu/downloads)
 

@@ -28,6 +28,9 @@ _VRChat会場の集合写真_
 ![VRChat会場の様子](../../../assets/group_talking.png)
 _VRChat会場の様子_
 
+![VRChat会場の様子](../../../assets/group_talking_2.png)
+_VRChat会場の様子_
+
 ![VRChat会場の様子](../../../assets/engineer_drinking_meetup_in_vrchat_3.png)
 _VRChat会場の様子_
 
