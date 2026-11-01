@@ -32,6 +32,13 @@ export default defineConfig({
 						{ label: 'Code of Conduct', link: '/community/code_of_conduct/' },
 					],
 				},
+				{
+					label: 'ポリシー',
+					items: [
+						{ label: 'プライバシーポリシー', link: '/policy/privacy/' },
+						{ label: '利用規約', link: '/policy/terms/' },
+					],
+				},
 			],
 		}),
 	],
